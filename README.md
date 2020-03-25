@@ -1,5 +1,5 @@
 # Treinamento [NodeJS](https://cursos.erickwendel.com/)
-Este repositório é mantém os estudos do Curso de NodeJS
+Este repositório mantém os estudos do Curso de NodeJS
 
 ### Competências aprendidas
 
